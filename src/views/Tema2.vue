@@ -306,7 +306,7 @@
           .head_tar.mt-0.p-2
             h4.mb-0.text-center Contaminación química
           .p-4
-            img.img-a(src="@/assets/curso/Images/tema2/bio.svg" alt='',).mb-4
+            img.img-a(src="@/assets/curso/Images/tema2/quimi.svg" alt='',).mb-4
             p Son las sustancias tóxicas que pueden llegar al alimento de manera fortuita o casual o que llegan al alimento por mala manipulación, entre ellos se encuentran insecticidas, plaguicidas u elementos de aseo.
             
       h5.my-5 Factores que intervienen en la contaminación de alimentos
