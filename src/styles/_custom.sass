@@ -142,6 +142,29 @@ figure, picture, img, svg
   margin: auto   
   width: auto
   height: auto
-    
+.bor_tar
+  border: #C6EAF5 10px solid
+  border-radius: 20px 
+  position: relative  
+  &:before
+    content: ''
+    width: 0
+    height: 0
+    font-size: 0
+    overflow: hidden
+    display: block
+    border-width: 15px
+    border-color: PowderBlue transparent transparent transparent
+    border-style: solid dashed dashed dashed
+    position: absolute
+    top: calc(100% + 10px)
+    left: 45%
+  
+.head_tar
+  background-color: $color-primario
+  border-top-left-radius: 10px
+  border-top-right-radius: 10px
+
+
 
 

@@ -285,20 +285,31 @@
           h3 Fuentes y mecanismos de contaminación 
       .row.justify-content-center
         .col-lg-10
-          p.mb-5 Las principales fuentes de contaminación de alimentos son: el aire, el polvo, la tierra, el agua, elementos por medio de los cuales se transmiten microorganismos que tiene la facilidad de contaminar los alimentos, los roedores, los insectos y aves catalogados como plagas, también generan contaminación; el uso de utensilios y elementos con mala higiene, las basuras depositadas cerca de los alimentos, el manipulador de alimentos si no aplica las normas de higiene establecidas para la manipulación de alimentos.
+          p Las principales fuentes de contaminación de alimentos son: el aire, el polvo, la tierra, el agua, elementos por medio de los cuales se transmiten microorganismos que tiene la facilidad de contaminar los alimentos, los roedores, los insectos y aves catalogados como plagas, también generan contaminación; el uso de utensilios y elementos con mala higiene, las basuras depositadas cerca de los alimentos, el manipulador de alimentos si no aplica las normas de higiene establecidas para la manipulación de alimentos.
 
-      .row.justify-content-center.align-items-center.mb-5 
-        .col-lg-3.mb-5.mb-lg-0 
-          figure
-            img(src="@/assets/curso/Images/tema2/tj_6.svg", alt="contaminacion fisica")
-        .col-lg-3.mb-5.mb-lg-0 
-          figure
-            img(src="@/assets/curso/Images/tema2/tj_7.svg", alt="contaminacion biologica")
-        .col-lg-3.mb-5.mb-lg-0 
-          figure
-            img(src="@/assets/curso/Images/tema2/tj_8.svg", alt="contaminacion quimica")
-              
-      h5.mb-3 Factores que intervienen en la contaminación de alimentos
+      .row.aling-items-stretch.justify-content-evenly.my-4
+        .col-lg-3.bor_tar.px-0.mt-5
+          .head_tar.mt-0.p-2
+            h4.mb-0.text-center Contaminación física
+          .p-4
+            img.img-a(src="@/assets/curso/Images/tema2/toxi.svg" alt='',).mb-4
+            p Son elementos que pueden ser observados a simple vista por ejemplo plásticos, vidrios, espinas, cáscaras, etc.
+        
+        .col-lg-3.bor_tar.px-0.mt-5
+          .head_tar.mt-0.p-2
+            h4.mb-0.text-center Contaminación biológica
+          .p-4
+            img.img-a(src="@/assets/curso/Images/tema2/bio.svg" alt='',).mb-4
+            p Provocada por organismos vivos que causan la contaminación por ejemplo insectos como moscos, roedores o microorganismos.
+        
+        .col-lg-3.bor_tar.px-0.mt-5
+          .head_tar.mt-0.p-2
+            h4.mb-0.text-center Contaminación química
+          .p-4
+            img.img-a(src="@/assets/curso/Images/tema2/bio.svg" alt='',).mb-4
+            p Son las sustancias tóxicas que pueden llegar al alimento de manera fortuita o casual o que llegan al alimento por mala manipulación, entre ellos se encuentran insecticidas, plaguicidas u elementos de aseo.
+            
+      h5.my-5 Factores que intervienen en la contaminación de alimentos
 
       p.mb-3 Los microorganismos necesitan de unas condiciones especiales para reproducirse y crecer, estas condiciones pueden estar presentes de forma natural en los alimentos y son consideradas como factores intrínsecos, y se tienen también los factores extrínsecos los cuales depende de condiciones externas como las ambientales.  En los factores intrínsecos la proliferación de los microorganismos se estimula por las características inherentes a los alimentos, en los factores extrínsecos se tiene influencia de factores como la temperatura y el tiempo, ver figura 16. 
 
