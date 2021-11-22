@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="159.5" viewBox="0 0 294 159.5">
+  <g id="Grupo_123161" data-name="Grupo 123161" transform="translate(-809 -3662.5)">
+    <rect id="Rectángulo_42333" data-name="Rectángulo 42333" width="294" height="159.5" transform="translate(809 3662.5)" fill="#28acd3" opacity="0.25"/>
+    <circle id="Elipse_5480" data-name="Elipse 5480" cx="56.5" cy="56.5" r="56.5" transform="translate(900 3685.5)" fill="#fff"/>
+    <g id="Elipse_5479" data-name="Elipse 5479" transform="translate(890 3675.5)" fill="none" stroke="#28acd3" stroke-width="3" stroke-dasharray="3 6">
+      <circle cx="66.5" cy="66.5" r="66.5" stroke="none"/>
+      <circle cx="66.5" cy="66.5" r="65" fill="none"/>
+    </g>
+    <path id="Trazado_247617" data-name="Trazado 247617" d="M43.605,63.18H34.27V84H22.551V27.125H43.684q10.078,0,15.547,4.492t5.469,12.7a17.5,17.5,0,0,1-2.52,9.707,17.183,17.183,0,0,1-7.637,6.191l12.3,23.242V84H54.27ZM34.27,53.688h9.453a9.679,9.679,0,0,0,6.836-2.246A8.028,8.028,0,0,0,52.98,45.25,8.593,8.593,0,0,0,50.7,38.922q-2.285-2.3-7.012-2.3H34.27Z" transform="translate(913 3693.5)" fill="#28acd3"/>
+  </g>
+</svg>
