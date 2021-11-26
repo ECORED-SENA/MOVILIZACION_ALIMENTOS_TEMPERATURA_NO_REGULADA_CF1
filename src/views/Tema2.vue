@@ -6,12 +6,12 @@
       .titulo-principal__numero
         span 2
       h1 Normativa de transporte de carga y manipulación de alimentos
-
-    .row.align-items-center.mb-5
-      .col-10.col-lg-5.mb-4.mb-lg-0.mx-5
+   
+    .row.mb-5
+      .col-12.col-lg-5.mb-4.mb-lg-0.mx-5
         p.mb-3 La normativa del sector transporte de carga es la reglamentación que contiene principios por los cuales se regula el sector transporte en el país, y la normativa de manipulación de alimentos son los decretos, resoluciones, normas entre otras disposiciones, dictadas por las autoridades, con el objeto de definir requisitos sanitarios que deben cumplir tanto las entidades jurídicas como las personas naturales que desarrollan actividades económicas de fabricación, procesamiento, preparación, envase, almacenamiento, transporte, distribución de alimentos, así como de las materias primas para el procesamiento, ver figura 8. 
         img(src="@/assets/curso/Images/tema2/img_2.svg", alt= "")
-      .col-lg-5 
+      .col-lg-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 8
           br
@@ -21,7 +21,7 @@
     Separador 
     
     #t_2_1.titulo-segundo
-      .h4 2.1  Dimensiones de transporte de carga. Artículo 7 Resolución 4100 de 2015
+      .h2  2.1  Dimensiones de transporte de carga. Artículo 7 Resolución 4100 de 2015
    
     p.mb-5  La resolución 4100 del 28 de diciembre de 2004 la cual tiene como objeto reglamentar los tipos de vehículos que se pueden utilizar para transporte de carga terrestre en el territorio nacional, así como todo lo relacionado a las dimensiones de los vehículos, esto según la:
     
@@ -152,13 +152,13 @@
               .jumbotron-5.p-4.mb-3
                 .row.justify-content-center.mb-3
                   .col-lg-3.mb-4.mb-lg-0
-                    img(src="@/assets/curso/Images/tema2/ico_4.svg", alt= "",style="width:200px;").m-auto  
+                    img(src="@/assets/curso/Images/tema2/ico_4_1.svg", alt= "",style="width:200px;").m-auto  
                   .col-lg-3.mb-4.mb-lg-0
-                    img(src="@/assets/curso/Images/tema2/ico_5.svg", alt= "",style="width:200px;").m-auto  
+                    img(src="@/assets/curso/Images/tema2/ico_5_1.svg", alt= "",style="width:200px;").m-auto  
                   .col-lg-3.mb-4.mb-lg-0
-                    img(src="@/assets/curso/Images/tema2/ico_6.svg", alt= "",style="width:200px;").m-auto  
+                    img(src="@/assets/curso/Images/tema2/ico_6_1.svg", alt= "",style="width:200px;").m-auto  
                   .col-lg-3.mb-4.mb-lg-0
-                    img(src="@/assets/curso/Images/tema2/ico_7.svg", alt= "",style="width:130px;").m-auto  
+                    img(src="@/assets/curso/Images/tema2/ico_7_1.svg", alt= "",style="width:200px;").m-auto  
                     
               figcaption Nota. SENA (2021). 
             
@@ -228,29 +228,31 @@
             h4  Artículos 1015, 1017 y 1026.  Estado de la mercancías 
             p Obligatoriedad del remitente es dar información al transportador si la mercancía que remite es de carácter peligroso o restringido, así como debe informar las precauciones que deben tomar para su traslado y las medidas que deben adoptarse, ver figura 14. El transportador no podrá trasladar las mercancías que, por su estado, embalaje, u otras circunstancias constituyan peligro, salvo que dé cumplimiento a los requisitos exigidos por la ley para transportarlos, artículo 1015 del código del comercio.
         .row.justify-content-center.mb-5
-          .col-lg-7
+          .col-lg-8
             .titulo-sexto.color-acento-contenido
               h5 Figura 14
               br
               span <i> Imágenes utilizadas para identificar mercancías peligrosas o restringidas </i> 
         .row.justify-content-center.mb-5
-          .col-lg-7
-              img(src="@/assets/curso/Images/tema2/img_4.svg", alt= "")
+          .col-lg-18
+              img(src="@/assets/curso/Images/tema2/img_4.svg", alt= "" style="width:600px; display:block; margin:0 auto;")
         .row.justify-content-center.mb-5
           .col-lg-10
             p.mb-0 De igual manera, las divergencias sobre el estado de las cosas, entendiendo como divergencia como la falta de acuerdo entre dos o más personas ante un asunto específico, para el caso de la logística sería sobre embalajes, acondicionamientos o manipulación de mercancías, e incluso mal manejo de la cadena de custodia, se dirimen por peritación,  es importante tener en cuenta que si un remitente hace retiro de la mercancía antes e iniciar el viaje, el transportador tiene derecho a recibir indemnización por los perjuicios que se le cause por el retiro, así como que se le restituya o devuelva la carta porte de la mercancía, artículo 1017.
         .row.justify-content-center.mb-4
-          .col-lg.order-2.order-lg-1
-            .custom_box_right    
-              p.mb-0 La información de arribo de la mercancía se debe hacer por parte del transportador, es decir, esté debe informar al destinatario del arribo de la mercancía, si el transportador no tiene la información sobre el lugar y fecha de entrega, esta debe realizarse en las oficinas que el transportador designe en el lugar de destino, artículo 1026. 
-              
-          .col-auto.onTop.order-1.order-lg-2
-            img(src="@/assets/curso/Images/tema2/img_5.svg" alt='AvatarTop', style="width:150px;")
+          .col-lg-10
+            .row.justify-content-center
+              .col-lg.order-2.order-lg-1
+                .custom_box_right
+                  p.mb-2 La información de arribo de la mercancía se debe hacer por parte del transportador, es decir, esté debe informar al destinatario del arribo de la mercancía, si el transportador no tiene la información sobre el lugar y fecha de entrega, esta debe realizarse en las oficinas que el transportador designe en el lugar de destino, artículo 1026. 
+                  
+              .col-auto.onTop.order-1.order-lg-2
+                img(src="@/assets/curso/Images/tema2/img_5.svg" alt='AvatarTop', style="width:150px;")
 
     Separador 
     
     #t_2_2.titulo-segundo
-      .h4 2.2  Normativa transporte de alimentos 
+      .h2 2.2  Normativa transporte de alimentos 
     .row
       p.mb-3 Según la resolución 2674 de 2013 el Ministerio de salud y protección social establece los requisitos sanitarios para el transporte de alimentos, el capítulo VII de dicha resolución contiene las disposiciones legales para el almacenamiento, distribución, transporte y comercialización de alimentos y materias primas, ver figura 15. 
 
@@ -280,12 +282,15 @@
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Artículo 29. Transporte, se presenta las 10 condiciones que se deben cumplir frente a esta resolución. 
+                
       .row.justify-content-center.mt-5
         .col-lg-10
           h3 Fuentes y mecanismos de contaminación 
       .row.justify-content-center
         .col-lg-10
-          p Las principales fuentes de contaminación de alimentos son: el aire, el polvo, la tierra, el agua, elementos por medio de los cuales se transmiten microorganismos que tiene la facilidad de contaminar los alimentos, los roedores, los insectos y aves catalogados como plagas, también generan contaminación; el uso de utensilios y elementos con mala higiene, las basuras depositadas cerca de los alimentos, el manipulador de alimentos si no aplica las normas de higiene establecidas para la manipulación de alimentos.
+          p.mb-3 Las principales fuentes de contaminación de alimentos son: el aire, el polvo, la tierra, el agua, elementos por medio de los cuales se transmiten microorganismos que tiene la facilidad de contaminar los alimentos, los roedores, los insectos y aves catalogados como plagas, también generan contaminación; el uso de utensilios y elementos con mala higiene, las basuras depositadas cerca de los alimentos, el manipulador de alimentos si no aplica las normas de higiene establecidas para la manipulación de alimentos.
+
+          p.mb-3 En la contaminación de alimentos se encuentran tres mecanismos de contaminación:
 
       .row.aling-items-stretch.justify-content-evenly.my-4
         .col-lg-3.bor_tar.px-0.mt-5

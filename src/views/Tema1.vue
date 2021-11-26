@@ -30,27 +30,29 @@
     Separador 
 
     #t_1_1.titulo-segundo
-      .h4 1.1 La logística
+      .h2 1.1 La logística
 
     p.mb-5 En el transporte de la mercancía conlleva que se direccione según las necesidades del destinatario y a su vez el tipo de mercancía, para ello es importante reconocer cuáles existen, ver el siguiente vídeo. 
-
+    
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .video
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador 
 
     #t_1_2.titulo-segundo
-      .h4 1.2 Mercancías,  tipos de mercancías, naturaleza y características
+      .h2 1.2 Mercancías, tipos de mercancías, naturaleza y características
 
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .video
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    br
+    p.mb-3 El medio de transporte es el vehículo, utilizado para trasladar elementos, cosas o personas de un lugar a otro, estos medios pueden ser aéreos, terrestres, ferroviarios o acuáticos, ver figura 2.
     
     Separador 
 
     #t_1_3.titulo-segundo
-      .h4 1.3 Medios de Transporte, clasificación de vehículos de carga y características
+      .h2 1.3 Medios de Transporte, clasificación de vehículos de carga y características
 
     p.mb-5 El medio de transporte es el vehículo, utilizado para trasladar elementos, cosas o personas de un lugar a otro, estos medios pueden ser aéreos, terrestres, ferroviarios o acuáticos, ver figura 2.
 
@@ -145,9 +147,9 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 5
+          h5 Figura 6
           br
-          span <i>  Configuración de los vehículos de carga </i>
+          span <i> Configuración de vehículos con remolques y semirremolques </i>
       .col-lg-10
         .jumbotron-4.p-3.mb-2
           .row.justify-content-center.mb-5
@@ -171,7 +173,9 @@
     Separador 
 
     #t_1_4.titulo-segundo
-      .h4 1.4 Simbología de manejo de carga, definición, significado, usos
+      .h2 1.4 Simbología de manejo de carga, definición, significado, usos
+
+    .h3 Imágenes básicas para manejo de carga
 
     p.mb-5 Como definición de simbología en el manejo de la carga, estas son las instrucciones gráficas que permiten transmitir información o las especificaciones de seguridad para el manejo de las mercancías, estas son estandarizadas a nivel internacional. En cuanto al significado, existen una serie de imágenes o pictogramas las cuales se usan para que los transportistas conozcan como proceder en el manejo de las mercancías, dentro de la simbología se encuentran unas instrucciones básicas y otras específicas, como se comparten a continuación. 
 
@@ -214,10 +218,10 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 7
             br
-            span <i> Identificación tipos de transporte </i>
+            span <i> Simbología para marcado de caja </i>
           img(src="@/assets/curso/Images/tema1/img_5.svg", alt= "")
 
-
+    
 
 
 

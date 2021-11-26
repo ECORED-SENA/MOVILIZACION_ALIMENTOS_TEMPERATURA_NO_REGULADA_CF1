@@ -36,7 +36,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.2',
             titulo:
-              'Medios de Transporte, clasificación de vehículos de carga y características',
+              'Mercancías, tipos de mercancías, naturaleza y características',
             hash: 't_1_2',
           },
           {
@@ -212,9 +212,9 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Capítulo I:Disposiciones Generales',
-      tipo:
+      texto:
         'Decreto 410 de 1971. [Presidencia de la república]. Por el cual se expide el Código de Comercio. Marzo 27 de 1971.',
+      tipo: 'Página Web',
       link: 'https://co.biblioteca.legal/codigo-comercio/contrato-transporte',
     },
   ],
@@ -292,10 +292,10 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
