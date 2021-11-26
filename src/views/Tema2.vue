@@ -6,12 +6,12 @@
       .titulo-principal__numero
         span 2
       h1 Normativa de transporte de carga y manipulación de alimentos
-   
-    .row.mb-5
-      .col-12.col-lg-5.mb-4.mb-lg-0.mx-5
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-12.col-lg-6
         p.mb-3 La normativa del sector transporte de carga es la reglamentación que contiene principios por los cuales se regula el sector transporte en el país, y la normativa de manipulación de alimentos son los decretos, resoluciones, normas entre otras disposiciones, dictadas por las autoridades, con el objeto de definir requisitos sanitarios que deben cumplir tanto las entidades jurídicas como las personas naturales que desarrollan actividades económicas de fabricación, procesamiento, preparación, envase, almacenamiento, transporte, distribución de alimentos, así como de las materias primas para el procesamiento, ver figura 8. 
         img(src="@/assets/curso/Images/tema2/img_2.svg", alt= "")
-      .col-lg-5
+      .col-8.col-md-8.col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 8
           br
