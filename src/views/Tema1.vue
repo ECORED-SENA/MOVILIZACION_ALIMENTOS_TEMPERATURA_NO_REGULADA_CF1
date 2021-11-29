@@ -132,13 +132,15 @@
               img.mb-5(src="@/assets/curso/Images/tema1/tj_8.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_9.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_10.svg", alt= "")
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_17.svg", alt= "")
       
             .col-md-6.col-lg-5.col-xl-5
               img.my-5(src="@/assets/curso/Images/tema1/cb_4.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_e.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_f.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_g.svg", alt= "")
-              img(src="@/assets/curso/Images/tema1/tj_h.svg", alt= "")
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_h.svg", alt= "")
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_0.svg", alt= "")
         figcaption Nota. Pruebaderuta.com
     
     
@@ -155,17 +157,18 @@
           .row.justify-content-center.mb-5
             .col-md-6.col-lg-5.col-xl-5
               img.my-5(src="@/assets/curso/Images/tema1/cb_3.svg", alt= "")
-              img.mb-5(src="@/assets/curso/Images/tema1/tj_11.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_12.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_13.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_14.svg", alt= "")
-      
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_11.svg", alt= "")
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_16.svg", alt= "")     
             .col-md-6.col-lg-5.col-xl-5
               img.my-5(src="@/assets/curso/Images/tema1/cb_4.svg", alt= "")
-              img.mb-5(src="@/assets/curso/Images/tema1/tj_i.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_j.svg", alt= "")
               img.mb-5(src="@/assets/curso/Images/tema1/tj_k.svg", alt= "")
-              img(src="@/assets/curso/Images/tema1/tj_l.svg", alt= "")
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_i.svg", alt= "")
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_l.svg", alt= "")
+              img.mb-5(src="@/assets/curso/Images/tema1/tj_n.svg", alt= "")
         figcaption Nota. Pruebaderuta.com
 
     p.mb-5 Lo que se ha evidenciado en las tablas anteriores desde la clasificación de los vehículos a partir de sus características y uso de las ruedas en función de las cargas y posibilidades de movimientos. 
