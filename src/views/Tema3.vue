@@ -8,7 +8,7 @@
       h1 Estado de mercancías
 
     .col-lg-12.xl-10.mb-5.color-custom-1
-      .bloque-texto-g.p-3.p-sm-4.p-md-5.mb-5.color-blue
+      .bloque-texto-g.p-3.p-sm-4.p-md-5.mb-5.color-blue-1
         .bloque-texto-g__texto.p-4
           b(style="color: #214BE5;") 
           p.mb-0 Las mercancías en su proceso de distribución pasan por diferentes procesos hasta la entrega que se hace a su destinario, en este proceso se tienen en cuenta los siguientes elementos que permiten abordar el estado de la mercancía. 
