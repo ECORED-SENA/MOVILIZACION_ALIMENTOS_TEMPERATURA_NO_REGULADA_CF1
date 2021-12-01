@@ -33,6 +33,8 @@
   background-color: #BFFEE3
 .jumbotron-9
   background-color: #BCE1EC
+.jumbotron-10
+  background-color: #F6F6F6
 .color-custom
   background-color: #95D4E6
 .titulo-segundo::after 
@@ -89,35 +91,48 @@ button.carousel-control-prev
     background-color: #FECE16
 .color-gradient
   background: linear-gradient(180deg, rgba(40,172,211,1) 0%, rgba(191,254,227,1) 100%)
-.custom_box_right   
+.custom_box_left_2    
   position: relative 
   padding: 2.5rem 1.5rem 
-  background-color: #C8EDF8
-  position: relative 
-  padding-block-end: 17px
-  height: 95%
-  z-index: 1
+  background-color: #D7EFF6
+  p
+    position: relative 
   &:before 
     content: ""
     position: absolute
     top: 0
-    left: 70%
-    width: 55%
+    left: -180px
+    width: 180px
     height: 100%
-    background-color: #C8EDF8
-    z-index: -1
-.tabs-c 
-    border-bottom: 0px solid #AFAFAF
+    background-color: #D7EFF6
+    z-index: 0
 
-
-   
-
-.alignLeft
-  text-align: left !important
 
 .onTop
   position: relative
-  z-index: 1
+  z-index: 10
+    
+@media screen and ( max-width: 980px )
+
+  .custom_box_left_2  
+    position: relative 
+    padding: 2.5rem 1.5rem 
+    background-color: #D7EFF6
+    p
+      position: relative 
+    &:before 
+      content: ""
+      position: absolute
+      top: -165px
+      left: 0
+      width: 220%
+      height: 500px
+      background-color: #D7EFF6
+      z-index: 0
+
+.tabs-c 
+    border-bottom: 0px solid #AFAFAF
+
 figure, picture, img, svg 
     margin: -17px
     width: 100%
@@ -179,9 +194,56 @@ elemento
     width: 161px
 .anexo:active, .anexo:focus, .anexo:hover 
     background-color: #FFFFFF
+.color-custom-1
+  background-color: #C8E6F5 
+.color-custom-2
+  background-color: #B8E5F2
+.bloque-texto-g__img 
+    width: 50%
+    position: absolute
+    top: 0
+    right: 0
+    left: 522px
+    bottom: 0
+    background-position: center
+    background-size: cover
+.bloque-texto-g__texto 
+    position: relative
+    width: 60%
+    background-color: rgba(255, 255, 255, 0.95)
+    right: 400px
+    z-index: 1
+    border-top-right-radius: 1rem
+    border-bottom-right-radius: 1rem
+.bloque-texto-g-1__img 
+    width: 50%
+    position: absolute
+    top: 0
+    right: 0
+    right: 521px
+    bottom: 0
+    background-position: center
+    background-color: #B8E5F2
+    background-size: cover
+.bloque-texto-g-1__texto 
+    position: relative
+    width: 60%
+    background-color: rgba(255, 255, 255, 0.95)
+    left: 20px
+    z-index: 1
+    border-top-right-radius: 1rem
+    border-bottom-right-radius: 1rem
+.color-blue
+    background-color: #28ACD3
+    background: url('../assets/curso/Images/tema3/bg-line2.svg')
+    background-position: left
+    background-size: auto
+    background-repeat: no-repeat
 
-
-
+.img-infografica.color-secundario .img-infografica__item__dot::before, .img-infografica.color-secundario .img-infografica__item__dot::after, .img-infografica.color-secundario .img-infografica-b__item__dot::before, .img-infografica.color-secundario .img-infografica-b__item__dot::after, .img-infografica-b.color-secundario .img-infografica__item__dot::before, .img-infografica-b.color-secundario .img-infografica__item__dot::after, .img-infografica-b.color-secundario .img-infografica-b__item__dot::before, .img-infografica-b.color-secundario .img-infografica-b__item__dot::after 
+    background-color: #FECE16
+.tarjeta.color-acento-botones 
+    background-color: #FFFF
 
 
 

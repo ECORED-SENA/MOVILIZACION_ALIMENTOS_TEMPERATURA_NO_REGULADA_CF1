@@ -83,6 +83,14 @@ export default {
         numero: '3',
         titulo: 'Estado de mercancías',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Manipulación de alimentos',
+            hash: 't_3_1',
+          },
+        ],
       },
     ],
     subMenu: [
