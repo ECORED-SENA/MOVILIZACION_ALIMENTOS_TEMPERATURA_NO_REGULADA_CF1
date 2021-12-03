@@ -28,7 +28,7 @@
         .custom_box_left_2     
           p Proceso que involucra el contacto directo con alimentos durante la transformación, envasado, almacenamiento, transporte y distribución.
 
-    p.mb-5 Planear y llevar cabo una adecuada distribución de la mercancía, conlleva a todo un proceso para la planeación, ejecución y control de los productos almacenados, para ello en el siguiente video se comparten algunos referentes que soportan la logística para la distribución de alimentos. 
+    p.mb-5 Planear y llevar cabo una adecuada distribución de la mercancía, con lleva a todo un proceso para la planeación, ejecución y control de los productos almacenados, para ello en el siguiente video se comparten algunos referentes que soportan la logística para la distribución de alimentos. 
 
     figure.mb-5
     .video
