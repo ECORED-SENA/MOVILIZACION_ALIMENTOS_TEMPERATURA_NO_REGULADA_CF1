@@ -36,22 +36,15 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.2',
             titulo:
-              'Mercancías, tipos de mercancías, naturaleza y características',
+              'Medios de Transporte, clasificación de vehículos de carga y características',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
             titulo:
-              'Medios de transporte, clasificación de vehículos de carga y características',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo:
               'Simbología de manejo de carga, definición, significado, usos',
-            hash: 't_1_4',
+            hash: 't_1_3',
           },
         ],
       },
