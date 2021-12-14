@@ -199,7 +199,7 @@
         .row.justify-content-center
           .col-md-10.mb-4
             h4  Artículo 1013.  Entrega de mercancías y responsabilidad del transportador 
-            p Según el artículo 1013 del código del comercio, es responsabilidad del remitente hacer entrega al transportador de la mercancías embaladas y rotuladas de la forma requerida, teniendo en cuenta la naturaleza de la mercancía, el remiten es responsable por los daños que se puedan causar por en entrega de mercancías embalada deficientemente o por el no suministro de información precisa.  El trasportador es responsable de los daños causados a las mercancías recibidas en custodia por el mal manejo o manipulación.
+            p Según el artículo 1013 del código del comercio, es responsabilidad del remitente hacer entrega al transportador de la mercancías embaladas y rotuladas de la forma requerida, teniendo en cuenta la naturaleza de la mercancía, el remitente es responsable por los daños que se puedan causar por entrega de mercancías embaladas deficientemente o por el no suministro de información precisa.  El trasportador es responsable de los daños causados a las mercancías recibidas en custodia por el mal manejo o manipulación.
 
         .row.justify-content-center.mb-5
           .col-lg-7
@@ -238,13 +238,13 @@
               img(src="@/assets/curso/Images/tema2/img_4.svg", alt= "" style="width:600px; display:block; margin:0 auto;")
         .row.justify-content-center.mb-5
           .col-lg-10
-            p.mb-0 De igual manera, las divergencias sobre el estado de las cosas, entendiendo como divergencia como la falta de acuerdo entre dos o más personas ante un asunto específico, para el caso de la logística sería sobre embalajes, acondicionamientos o manipulación de mercancías, e incluso mal manejo de la cadena de custodia, se dirimen por peritación,  es importante tener en cuenta que si un remitente hace retiro de la mercancía antes e iniciar el viaje, el transportador tiene derecho a recibir indemnización por los perjuicios que se le cause por el retiro, así como que se le restituya o devuelva la carta porte de la mercancía, artículo 1017.
+            p.mb-0 De igual manera, las divergencias sobre el estado de las cosas, entendiendo como divergencia como la falta de acuerdo entre dos o más personas ante un asunto específico, para el caso de la logística sería sobre embalajes, acondicionamientos o manipulación de mercancías, e incluso mal manejo de la cadena de custodia, se dirimen por peritación,  es importante tener en cuenta que si un remitente hace retiro de la mercancía antes de iniciar el viaje, el transportador tiene derecho a recibir indemnización por los perjuicios que se le cause por el retiro, así como que se le restituya o devuelva la carta porte de la mercancía, artículo 1017.
         .row.justify-content-center.mb-4
           .col-lg-10
             .row.justify-content-center
               .col-lg.order-2.order-lg-1
                 .custom_box_right
-                  p.mb-2 La información de arribo de la mercancía se debe hacer por parte del transportador, es decir, esté debe informar al destinatario del arribo de la mercancía, si el transportador no tiene la información sobre el lugar y fecha de entrega, esta debe realizarse en las oficinas que el transportador designe en el lugar de destino, artículo 1026. 
+                  p.mb-2 La información de arribo de la mercancía se debe hacer por parte del transportador, es decir, este debe informar al destinatario del arribo de la mercancía, si el transportador no tiene la información sobre el lugar y fecha de entrega, esta debe realizarse en las oficinas que el transportador designe en el lugar de destino, artículo 1026. 
                   
               .col-auto.onTop.order-1.order-lg-2
                 img(src="@/assets/curso/Images/tema2/img_5.svg" alt='AvatarTop', style="width:150px;")

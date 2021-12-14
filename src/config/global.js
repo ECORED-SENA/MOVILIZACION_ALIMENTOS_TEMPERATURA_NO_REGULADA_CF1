@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Logística en el sector transporte',
+    componenteFormativo: 'Logística en el sector transporte y normativa',
     descripcionCurso:
       'En la industria del país el transporte de carga es uno de los pilares fundamentales, la logística permite dinamizar el flujo de productos entre el productor y el consumidor, sin embargo, es muy relevante que el aprendiz reconozca en las  empresas que prestan el servicio el cómo se deben cumplir con las promesas de valor, de hacer entrega a los clientes, entregas oportunas y con productos en perfectas condiciones, además, de identificar las responsabilidades y obligaciones que adquieren las parte involucradas al entregar un producto para trasladarlo y al aceptar el producto para ser entregado en un destino definido por el remitente. ',
     imagenBannerPrincipal: require('@/assets/curso/Images/header/banner-principal.svg'),
